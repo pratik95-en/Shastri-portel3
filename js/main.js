@@ -23,7 +23,7 @@ const App = {
 /* ── Subject config ── */
 const SUBJ = {
   nepali:   { label:'नेपाली साहित्य',    icon:'📜', g:'#FFE0B2,#FF8A65' },
-  english:  { label:'English Literature', g:'#C8E6C9,#43A047' },
+  english:  { label:'English Literature',icon:'', g:'#C8E6C9,#43A047' },
   sanskrit: { label:'संस्कृत साहित्य',   icon:'🕉️', g:'#D1C4E9,#7B1FA2' },
   vyakaran: { label:'व्याकरण',           icon:'✏️', g:'#BBDEFB,#1565C0' },
   jyotish:  { label:'ज्योतिष शास्त्र',  icon:'⭐', g:'#FFF9C4,#F57F17' },
